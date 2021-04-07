@@ -54,6 +54,8 @@ SVM creates a decision boundary which makes the distinction between two or more 
 confusion matrix is a tabular way of visualizing the performance of your prediction model. Each entry in a confusion matrix denotes the number of predictions made by the model where it classified the classes correctly or incorrectly.
 
 ## Exploratory Data Analysis
+###### Count plot for analysing Targer feature
+! [Count Plot] (/Images/countplot.png)
 
 
 
