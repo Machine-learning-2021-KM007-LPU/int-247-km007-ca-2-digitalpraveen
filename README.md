@@ -1,5 +1,6 @@
 # int-247-km007-ca-2-praveenkumar
 
+# Forest Cover Type
 ## DATA OVERVIEW 
 
 Elevation - Elevation in meters
